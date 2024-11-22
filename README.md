@@ -23,6 +23,7 @@ Thanks.
 
 ### Clone the repository:
 git clone https://github.com/hazaaAlmarzooqi/PollVotes.git
+
 cd PollVotes
 
 ### Install dependencies:
